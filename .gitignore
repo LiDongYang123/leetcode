@@ -13,4 +13,5 @@ generatorConfig.xml
 *.lock
 /build/
 *.settings
+*.class
 out
