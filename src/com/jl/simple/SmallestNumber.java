@@ -1,4 +1,4 @@
-package com.ldy.www.simple.day1;
+package com.jl.simple;
 
 import org.junit.Test;
 

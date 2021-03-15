@@ -1,4 +1,4 @@
-package com.ldy.www.everyday;
+package com.jl.everyday;
 
 import org.junit.Test;
 
